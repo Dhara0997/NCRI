@@ -1,0 +1,8 @@
+[08-Dec-2019 21:37:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ncri/public_html/wp-content/themes/NCRI/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ncri/public_html/wp-content/themes/NCRI/index.php on line 1
+[29-Sep-2020 16:18:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ncri/public_html/wp-content/themes/NCRI/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ncri/public_html/wp-content/themes/NCRI/index.php on line 1
