@@ -1,8 +1,8 @@
 # Ignore everything
-# /*
+/*
 
 # But not these files or directories:
-# !wp-content/
+!wp-content/
 
 # Exclude this .gitignore file itself
-# .gitignore
+.gitignore
